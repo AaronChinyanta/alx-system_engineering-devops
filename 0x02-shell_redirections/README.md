@@ -1,2 +1,1 @@
-Write a shell script that creates a file named exactly
-Write a script that writes into the file
+It is a good file that cuts iron without making a noise
